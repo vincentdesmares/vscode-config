@@ -1,0 +1,20 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "git.confirmSync": false,
+    "workbench.colorTheme": "Monokai",
+    "editor.formatOnSave": true,
+    "window.zoomLevel": 0,
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.scrollback": 10000,
+    "workbench.editor.enablePreview": false,
+    "telemetry.enableTelemetry": false,
+    "editor.minimap.enabled": false,
+    "editor.folding": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.overviewRulerBorder": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.activityBar.visible": false,
+    "extensions.ignoreRecommendations": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+}
