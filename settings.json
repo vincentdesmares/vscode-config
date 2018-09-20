@@ -17,4 +17,5 @@
     "workbench.activityBar.visible": false,
     "extensions.ignoreRecommendations": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.scrollBeyondLastLine": false
 }
