@@ -9,6 +9,7 @@
   "terminal.integrated.scrollback": 10000,
   "workbench.editor.enablePreview": false,
   "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
   "editor.minimap.enabled": false,
   "editor.folding": false,
   "editor.hideCursorInOverviewRuler": true,
