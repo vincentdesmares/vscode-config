@@ -7,6 +7,7 @@
     "waderyan.gitblame", // Quickly find out the last commit related to a line
     "mikestead.dotenv", // Syntax hightlight for .env files
     "coenraads.bracket-pair-colorizer", // Color the brackets and hightlight current scope.,
-    "donjayamanne.githistory" // right click -> view file history
+    "donjayamanne.githistory", // right click -> view file history
+    "tabnine.tabnine-vscode" // ML-assisted autocomplete (require subscription for high efficiency)
   ]
 }
